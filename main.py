@@ -9,7 +9,14 @@ and transforms them into digital information.
 
 Steps:
 1. Load Data from MNIST
-2.Normalize
+2. Normalize
+3. Model Training
+4. Model Fit
+5. OpenCV Display 
+
+Author:
+
+Bupesh Kumar R
 
 '''
 
